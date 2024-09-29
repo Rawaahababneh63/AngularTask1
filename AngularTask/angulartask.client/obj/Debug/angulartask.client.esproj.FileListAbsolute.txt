@@ -1,1 +1,2 @@
 C:\Users\Orangee\source\repos\AngularTask\angulartask.client\obj\Debug\angulartask.client.esproj.CoreCompileInputs.cache
+C:\Users\Orangee\Desktop\Angular\AngularTask1\AngularTask\angulartask.client\obj\Debug\angulartask.client.esproj.CoreCompileInputs.cache

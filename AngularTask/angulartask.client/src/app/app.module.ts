@@ -13,6 +13,7 @@ import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { RouterModule } from '@angular/router';
 import { ImageDisplayComponent } from './image-display/image-display.component';
+import { ServicesComponent } from './services/services.component';
 
 
 @NgModule({
@@ -26,6 +27,7 @@ import { ImageDisplayComponent } from './image-display/image-display.component';
     ContactComponent,
     HomeComponent,
     ImageDisplayComponent,
+    ServicesComponent,
 
   ],
   imports: [
@@ -39,6 +41,7 @@ import { ImageDisplayComponent } from './image-display/image-display.component';
       { path: "Product", component: ProductComponent },
       { path: "Contact", component: ContactComponent },
       { path: "Image", component: ImageDisplayComponent },
+      { path: "Services", component: ServicesComponent },
 
     ])
   ],

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "rh6tfz5e6ebbsuRiKMQmi+i3IwR+8m467Yyqn0rlZaI=",
+  "Hash": "iujBiTjvW5/XXETUDvMGbbsIcJxjrgTheqxZSofY4IQ=",
   "Source": "AngularTask.Server",
   "BasePath": "_content/AngularTask.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orangee\\source\\repos\\AngularTask\\angulartask.client\\angulartask.client.esproj",
+      "Identity": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\AngularTask\\angulartask.client\\angulartask.client.esproj",
       "Version": 2,
       "Source": "angulartask.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
