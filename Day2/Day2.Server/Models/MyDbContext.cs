@@ -37,15 +37,19 @@ public partial class MyDbContext : DbContext
 
     public virtual DbSet<SubService> SubServices { get; set; }
 
+    public virtual DbSet<Subscription> Subscriptions { get; set; }
+
     public virtual DbSet<User> Users { get; set; }
 
     public virtual DbSet<UserRole> UserRoles { get; set; }
+
+    public virtual DbSet<UserSubscription> UserSubscriptions { get; set; }
 
     public virtual DbSet<Voucher> Vouchers { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server= ORANGE;Database= Api;Trusted_Connection=True;TrustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("Server=ORANGE;Database=Api;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -194,6 +198,20 @@ public partial class MyDbContext : DbContext
                 .HasConstraintName("FK__subServic__servi__2B0A656D");
         });
 
+        modelBuilder.Entity<Subscription>(entity =>
+        {
+            entity.HasKey(e => e.SubscriptionId).HasName("PK__subscrip__4A0F55C76DFA4385");
+
+            entity.ToTable("subscription");
+
+            entity.Property(e => e.SubscriptionId).HasColumnName("subscriptionID");
+            entity.Property(e => e.SubscriptionAmount).HasColumnName("subscriptionAmount");
+            entity.Property(e => e.SubscriptionDescription).HasColumnName("subscriptionDescription");
+            entity.Property(e => e.SubscriptionName)
+                .HasMaxLength(150)
+                .HasColumnName("subscriptionName");
+        });
+
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(e => e.UserId).HasName("PK__Users__1788CCACA30C34A4");
@@ -215,6 +233,30 @@ public partial class MyDbContext : DbContext
                 .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_UserRole_User");
+        });
+
+        modelBuilder.Entity<UserSubscription>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__user_sub__3213E83FB9A887B8");
+
+            entity.ToTable("user_subscription");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.EndDate).HasColumnName("endDate");
+            entity.Property(e => e.StartDate).HasColumnName("startDate");
+            entity.Property(e => e.SubServiceId).HasColumnName("subServiceID");
+            entity.Property(e => e.SubscriptionId).HasColumnName("subscriptionId");
+            entity.Property(e => e.UserId).HasColumnName("UserID");
+
+            entity.HasOne(d => d.Subscription).WithMany(p => p.UserSubscriptions)
+                .HasForeignKey(d => d.SubscriptionId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__user_subs__subsc__30C33EC3");
+
+            entity.HasOne(d => d.User).WithMany(p => p.UserSubscriptions)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__user_subs__UserI__2FCF1A8A");
         });
 
         modelBuilder.Entity<Voucher>(entity =>

@@ -4560,11 +4560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orangee\\source\\repos\\Day2\\Day2.Server\\Day2.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Day2.Server.csproj",
       "projectName": "Day2.Server",
-      "projectPath": "C:\\Users\\Orangee\\source\\repos\\Day2\\Day2.Server\\Day2.Server.csproj",
+      "projectPath": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Day2.Server.csproj",
       "packagesPath": "C:\\Users\\Orangee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orangee\\source\\repos\\Day2\\Day2.Server\\obj\\",
+      "outputPath": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

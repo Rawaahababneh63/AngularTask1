@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orangee\\source\\repos\\Day2\\Day2.Server\\..\\day2.client",
+"WorkingDirectory": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\..\\day2.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "sk/hDxFw+C7CP+PU2zd7bMNyrs8Smhv9fo2d66dpZAU=",
+  "Hash": "JgCvFXUxMhuR+h1bQiGA+Be/UPdms210o8RdlIIMhHI=",
   "Source": "Day2.Server",
   "BasePath": "_content/Day2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orangee\\source\\repos\\Day2\\day2.client\\day2.client.esproj",
+      "Identity": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\day2.client.esproj",
       "Version": 2,
       "Source": "day2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

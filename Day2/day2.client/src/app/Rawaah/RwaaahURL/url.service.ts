@@ -13,8 +13,18 @@ export class UrlService {
   getServices(): Observable<any> {
     return this.http.get<any>(`${this.staticData}/Services/GetAllServices`);
   }
-  getSubServices(id:any): Observable<any> {
+  getSubServices(id: any): Observable<any> {
     return this.http.get<any>(`${this.staticData}/SubServices/GetSubServicesbyServiceID?id=${id}`);
+  }
+  getSubscribtion(): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Subscribtion`);
+  }
+
+  addUserSubcription(data:any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/UserSubscription`,data)
+  }
+  getServicesDetails(id: any): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/SubServices/GetSubServicesbyID?id=${id}`);
   }
 }
 

@@ -1,0 +1,12 @@
+<p>subscribtion works!</p>
+
+<div class="card" style="width: 18rem;" *ngFor="let item of SubscriptionArray">
+  <p class="card-text">{{item.subscriptionId}}</p>
+  <!--<img src="{{item.subscriptionId}}" class="card-img-top" alt="...">-->
+  <div class="card-body">
+    <h5 class="card-title">{{item.subscriptionName}}</h5>
+    <p class="card-text">{{item.subscriptionDescription}}</p>
+    <p class="card-text">{{item.subscriptionAmount}}</p>
+    <a router-link="" class="btn btn-primary" (click)="addUserSubcription(item.subscriptionId)">SubcribeNow</a>
+  </div>
+</div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7YC9gM8RIZ4=",
+  "dgSpecHash": "ucVJ7ULOk7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orangee\\source\\repos\\Day2\\Day2.Server\\Day2.Server.csproj",
+  "projectFilePath": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Day2.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orangee\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Orangee\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
