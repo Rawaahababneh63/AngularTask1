@@ -1,4 +1,5 @@
-﻿using Day2.Server.Models;
+﻿using Day2.Server.DTO;
+using Day2.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

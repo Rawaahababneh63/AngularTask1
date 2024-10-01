@@ -26,5 +26,16 @@ export class UrlService {
   getServicesDetails(id: any): Observable<any> {
     return this.http.get<any>(`${this.staticData}/SubServices/GetSubServicesbyID?id=${id}`);
   }
+
+
+ addUser(data:any): Observable<any> {
+   return this.http.post<any>(`${this.staticData}/Users`,data);
+  }
+
+
+  LoginUser(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Users/Login`, data);
+  }
+
 }
 

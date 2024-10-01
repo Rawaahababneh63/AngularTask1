@@ -1,4 +1,4 @@
-﻿namespace Day2.Server.Controllers
+﻿namespace Day2.Server.DTO
 {
     public class UserSubscriptionDTO
     {

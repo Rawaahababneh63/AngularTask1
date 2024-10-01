@@ -13,6 +13,8 @@ import { LectureComponent } from './Rawaah/RwaaahURL/lecture/lecture.component';
 import { FormsModule, NgForm } from '@angular/forms';
 import { SubscribtionComponent } from './Rawaah/RwaaahURL/subscribtion/subscribtion.component';
 import { ServiceDetailsComponent } from './Rawaah/service-details/service-details.component';
+import { RegisterationUserComponent } from './Rawaah/registeration-user/registeration-user.component';
+import { LoginComponent } from './Rawaah/login/login.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +24,9 @@ import { ServiceDetailsComponent } from './Rawaah/service-details/service-detail
     SubServicesComponent,
     LectureComponent,
     SubscribtionComponent,
-    ServiceDetailsComponent
+    ServiceDetailsComponent,
+    RegisterationUserComponent,
+    LoginComponent
   ],
   imports: [
     FormsModule,
@@ -34,7 +38,9 @@ import { ServiceDetailsComponent } from './Rawaah/service-details/service-detail
       { path: "SubServices/:id", component: SubServicesComponent },
       { path: "lecture", component: LectureComponent },
       { path: "Subscribtion", component: SubscribtionComponent },
-      { path: "Service-Details/:id", component:ServiceDetailsComponent}
+      { path: "Service-Details/:id", component: ServiceDetailsComponent },
+      { path: "Registration", component: RegisterationUserComponent },
+      { path: "Login", component: LoginComponent }
     ])
   ],
   providers: [],
