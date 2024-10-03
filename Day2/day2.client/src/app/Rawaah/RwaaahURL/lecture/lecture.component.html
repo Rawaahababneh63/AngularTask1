@@ -9,3 +9,13 @@
 
 
 
+<h1 [ngStyle]="{'background-color' :userObj.color}">{{userObj.name}}</h1>
+
+<h2 [ngStyle]="{'color':'red'}">Rawaah Ababneh</h2>
+
+<div *ngFor="let item of userAray" [ngClass]="{'greenColor': item.grade > 25, 'redColor': item.grade < 25}">
+  <p>{{item.name}}</p>
+  <p>{{item.grade}}</p>
+
+
+</div>

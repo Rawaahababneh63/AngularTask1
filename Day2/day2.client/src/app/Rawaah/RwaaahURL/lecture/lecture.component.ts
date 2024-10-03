@@ -5,6 +5,8 @@ import { Component } from '@angular/core';
   templateUrl: './lecture.component.html',
   styleUrl: './lecture.component.css'
 })
+
+
 export class LectureComponent {
   name: string = "Rawaah"
   Age: number = 26;
@@ -13,4 +15,36 @@ export class LectureComponent {
     this.name = "Hadeel";
   };
   number: number=0;
+
+ userObj = {
+  name: "Rwaah",
+  color: "red",
+  age:26
+  }
+
+  userAray = [{
+    
+      name: "Rwaah",
+      color: "red",
+      grade: 26
+ 
+  }, {
+
+      name: "bassam",
+      color: "red",
+      grade: 20
+
+    },
+  ]
+
+
+
+
+
+
+
+
+
+
+
 }

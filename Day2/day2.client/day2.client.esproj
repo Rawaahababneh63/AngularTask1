@@ -8,6 +8,7 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\day2.client\browser\</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="src\app\Rawaah\Admin\" />
     <Folder Include="src\app\Rawaah\RwaaahURL\" />
   </ItemGroup>
 </Project>

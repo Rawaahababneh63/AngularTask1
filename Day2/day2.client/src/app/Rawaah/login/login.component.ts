@@ -25,13 +25,17 @@ export class LoginComponent {
     for (let key in data) {
       form.append(key, data[key])
     }
-    this._ser.LoginUser(form).subscribe(() => {
-      alert("Login is SucessFully")
-      this._router.navigate(['/Services'])
-    }),
+    this._ser.LoginUser(form).subscribe((response: any) => {
+      if (response.email == "admin@gmail.com") {
+        this._router.navigate(['/Dashboard']);
+        alert("Login is SucessFully")
+      } else {
+        this._router.navigate(['/'])
+      }
+    },
       (error: any) => {
         alert(error.error)
-      }
+      })
 
   }
 }
