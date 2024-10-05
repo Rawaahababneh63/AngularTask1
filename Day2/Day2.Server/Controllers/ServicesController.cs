@@ -53,5 +53,46 @@ namespace Day2.Server.Controllers
 
             return Ok(newservice);
         }
+
+
+        [HttpPut("UpdateService/{id}")]
+        public IActionResult updateService([FromForm] UpdateServiceDTO updateServiceDTO, int id) { 
+        
+        var service = _db.Services.Where(x=>x.ServiceId == id).FirstOrDefault();
+            var folder = Path.Combine(Directory.GetCurrentDirectory(), "UploadImages");
+            if (Directory.Exists(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+            var ImageFile = Path.Combine(folder, updateServiceDTO.ServiceImage.FileName);
+            using (var stream = new FileStream(ImageFile, FileMode.Create))
+            {
+                updateServiceDTO.ServiceImage.CopyTo(stream);
+            }
+
+            service.ServiceName = updateServiceDTO.ServiceName;
+            service.ServiceDescription = updateServiceDTO.ServiceDescription;
+        service.ServiceImage=updateServiceDTO.ServiceImage.FileName;
+        _db.Services.Update(service);
+            _db.SaveChanges();
+            return Ok(service);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }

@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\update-service\\update-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\update-service\\update-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\update-service\\update-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\update-service\\update-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\rwaaahurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\rwaaahurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\get-services-admin\\get-services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\get-services-admin\\get-services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\day2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\day2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\get-services-admin\\get-services-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\get-services-admin\\get-services-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\service-details\\service-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\service-details\\service-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,48 +83,20 @@
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\rwaaahurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\rwaaahurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\add-service\\add-service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\service-details\\service-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\service-details\\service-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\admin\\dashboard\\dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -75,24 +119,8 @@
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\day2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\day2.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\rwaaahurl\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\userlogin1dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\registeration-user\\registeration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\registeration-user\\registeration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -149,10 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.client\\src\\app\\rawaah\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EDAD2D50-4282-4B2E-95B2-20ADE980459C}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\rawaah\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|solutionrelative:day2.server\\dto\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C82BED10-113D-4A27-B53D-6A23A21497D1}|Day2.Server\\Day2.Server.csproj|c:\\users\\orangee\\desktop\\angular\\angulartask1\\day2\\day2.server\\models\\subservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,128 +190,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "update-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.ts",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T09:29:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBYAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T10:37:57.795Z",
+              "Title": "update-service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\update-service\\update-service.component.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBEAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T09:50:37.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "add-service.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T10:08:32.704Z",
+              "DocumentIndex": 3,
+              "Title": "UpdateServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UpdateServiceDTO.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\DTO\\UpdateServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UpdateServiceDTO.cs",
+              "RelativeToolTip": "Day2.Server\\DTO\\UpdateServiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:07:27.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "url.service.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\url.service.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\url.service.ts",
               "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\url.service.ts",
               "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\url.service.ts",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCYAAAAMAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-10-01T09:24:53.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "add-service.component.css",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-02T10:21:29.026Z",
+              "DocumentIndex": 5,
+              "Title": "get-services-admin.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T08:55:22.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAACgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T09:18:11.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Day2.Server\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Day2.Server\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAjwCoAAAAIAAAA",
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Day2.Server\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:01:39.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "add-service.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T09:58:50.669Z",
+              "WhenOpened": "2024-10-01T09:01:52.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "dashboard.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T09:44:26.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "login.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\login\\login.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\login\\login.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T10:37:56.349Z",
+              "WhenOpened": "2024-10-02T09:11:21.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "add-service.component.html",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.html",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.html",
@@ -304,150 +298,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T09:18:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\DTO\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\AddUserDTO.cs",
+              "RelativeToolTip": "Day2.Server\\DTO\\AddUserDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:03:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "dashboard.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.html",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-02T09:11:21.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "sub-services.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T10:06:55.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "service-details.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T13:35:04.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dashboard.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T10:08:42.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "sub-services.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-02T06:39:58.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "service-details.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-02T10:06:09.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "service-details.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T13:34:37.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "Day2.Server\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "Day2.Server\\Controllers\\ServicesController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAewCIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:01:52.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "subscribtion.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T13:39:22.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "nav-bar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T09:18:54.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Day2.Server\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "Day2.Server\\Models\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T08:46:59.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "AddServiceDTO.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\AddServiceDTO.cs",
               "RelativeDocumentMoniker": "Day2.Server\\DTO\\AddServiceDTO.cs",
@@ -460,47 +337,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 11,
+              "Title": "UserSubscriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UserSubscriptionDTO.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\DTO\\UserSubscriptionDTO.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UserSubscriptionDTO.cs",
+              "RelativeToolTip": "Day2.Server\\DTO\\UserSubscriptionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:03:28.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Day2.Server\\Models\\Service.cs",
               "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\Service.cs",
               "RelativeToolTip": "Day2.Server\\Models\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T08:47:00.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "lecture.component.html",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T09:53:23.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "lecture.component.css",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
-              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
-              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-02T08:31:32.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Day2.Server",
+              "DocumentIndex": 13,
+              "Title": "Day2.Server.csproj",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Day2.Server.csproj",
               "RelativeDocumentMoniker": "Day2.Server\\Day2.Server.csproj",
               "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Day2.Server.csproj",
@@ -512,7 +376,240 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "add-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.ts",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:58:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "get-services-admin.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\get-services-admin\\get-services-admin.component.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T08:02:06.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:44:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "add-service.component.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T10:21:29.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Day2.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:01:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "service-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T13:35:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "add-service.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\add-service\\add-service.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T10:08:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\login\\login.component.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-01T10:37:57.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\login\\login.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T10:37:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "sub-services.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T10:06:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dashboard.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\Admin\\dashboard\\dashboard.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T10:08:42.696Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "sub-services.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\sub-services\\sub-services.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T06:39:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "service-details.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T10:06:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "service-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T13:34:37.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "subscribtion.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T13:39:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T09:18:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Day2.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Day2.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:46:59.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "lecture.component.html",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T09:53:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "lecture.component.css",
+              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
+              "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
+              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
+              "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T08:31:32.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "lecture.component.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.ts",
@@ -520,12 +617,11 @@
               "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\lecture\\lecture.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T09:34:28.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:34:28.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "subscribtion.component.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.ts",
@@ -533,12 +629,11 @@
               "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\RwaaahURL\\subscribtion\\subscribtion.component.ts",
               "ViewState": "AQIAAB8AAAAAAAAAAAAQwCoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T09:34:02.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:34:02.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "service-details.component.css",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.css",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.css",
@@ -546,12 +641,11 @@
               "RelativeToolTip": "day2.client\\src\\app\\Rawaah\\service-details\\service-details.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-02T06:35:15.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T06:35:15.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "UserLogin1DTO.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UserLogin1DTO.cs",
               "RelativeDocumentMoniker": "Day2.Server\\DTO\\UserLogin1DTO.cs",
@@ -563,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "registeration-user.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.spec.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.spec.ts",
@@ -575,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\User.cs",
               "RelativeDocumentMoniker": "Day2.Server\\Models\\User.cs",
@@ -587,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "login.component.css",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\login\\login.component.css",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\login\\login.component.css",
@@ -599,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "registeration-user.component.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.ts",
@@ -611,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "registeration-user.component.html",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.html",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\registeration-user\\registeration-user.component.html",
@@ -623,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "nav-bar.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.spec.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\Rawaah\\nav-bar\\nav-bar.component.spec.ts",
@@ -635,19 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UserSubscriptionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UserSubscriptionDTO.cs",
-              "RelativeDocumentMoniker": "Day2.Server\\DTO\\UserSubscriptionDTO.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\UserSubscriptionDTO.cs",
-              "RelativeToolTip": "Day2.Server\\DTO\\UserSubscriptionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:03:28.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "SubService.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Models\\SubService.cs",
               "RelativeDocumentMoniker": "Day2.Server\\Models\\SubService.cs",
@@ -659,19 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AddUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\AddUserDTO.cs",
-              "RelativeDocumentMoniker": "Day2.Server\\DTO\\AddUserDTO.cs",
-              "ToolTip": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\DTO\\AddUserDTO.cs",
-              "RelativeToolTip": "Day2.Server\\DTO\\AddUserDTO.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:03:16.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "SubscribtionController.cs",
               "DocumentMoniker": "C:\\Users\\Orangee\\Desktop\\Angular\\AngularTask1\\Day2\\Day2.Server\\Controllers\\SubscribtionController.cs",
               "RelativeDocumentMoniker": "Day2.Server\\Controllers\\SubscribtionController.cs",

@@ -17,6 +17,8 @@ import { RegisterationUserComponent } from './Rawaah/registeration-user/register
 import { LoginComponent } from './Rawaah/login/login.component';
 import { DashboardComponent } from './Rawaah/Admin/dashboard/dashboard.component';
 import { AddServiceComponent } from './Rawaah/Admin/add-service/add-service.component';
+import { GetServicesAdminComponent } from './Rawaah/Admin/dashboard/get-services-admin/get-services-admin.component';
+import { UpdateServiceComponent } from './Rawaah/Admin/update-service/update-service.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +32,9 @@ import { AddServiceComponent } from './Rawaah/Admin/add-service/add-service.comp
     RegisterationUserComponent,
     LoginComponent,
     DashboardComponent,
-    AddServiceComponent
+    AddServiceComponent,
+    GetServicesAdminComponent,
+    UpdateServiceComponent
   ],
   imports: [
     FormsModule,
@@ -47,14 +51,14 @@ import { AddServiceComponent } from './Rawaah/Admin/add-service/add-service.comp
       { path: "Login", component: LoginComponent },
       {
         path: "Dashboard", component: DashboardComponent,
-        children: [{ path: "AddService", component: AddServiceComponent },
-
-        ]
+        children: [{ path: "AddService", component: AddServiceComponent }, { path: "getServiceAdmin", component: GetServicesAdminComponent }, { path: "UpdateService/:id", component: UpdateServiceComponent }
+]
       },
      
 
   ]
-  )],
+    )],
+
   providers: [],
   bootstrap: [AppComponent]
 })
